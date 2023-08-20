@@ -1,7 +1,7 @@
 
 # YOLOv5 Furniture Detection
 
-Trained a furniture detection model using YOLOv5. This model handles chairs, tables and sofa. 
+Trained a furniture detection model using YOLOv5. This model handles chairs, tables, and sofa. 
 
 
 ## Validation Set Results
@@ -13,5 +13,5 @@ Trained a furniture detection model using YOLOv5. This model handles chairs, tab
 ![Table--51-_jpg rf b4b15b0694a820b848d8d884babcd633](https://github.com/stokome/yolov5_furniture_detection/assets/87638990/b217dccc-4021-4615-961b-3f2f2ee5ffe1)
 
 ## Conclusion
-Total Number of Images in validation set = 161
-Total Number of misclassified = 29
+Total Number of Images in the validation set = 161 \
+Total Number of misclassified images = 29
